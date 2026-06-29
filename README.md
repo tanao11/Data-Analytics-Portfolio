@@ -26,3 +26,10 @@ Cleaned and analyzed 50,000 rows of mobile device sales data across
 5 regions in India. Built pivot tables to uncover revenue and product
 mix issues in Central and East regions. Developed 3 actionable
 recommendations to improve regional performance.
+
+---
+
+### 3. Superstore Sales & Profitability Analysis
+**Tools:** SQL, Google BigQuery | **Date:** June 2026
+
+Analyzed 9,993 retail transactions to identify drivers of profit and loss across regions, products, discount strategies, and customer segments. Discovered that high discounts above 40% generated $122K in net losses and identified Tables and Bookcases as unprofitable product lines despite strong sales volume. Delivered 3 data-backed recommendations to improve margins and guide resource allocation.
